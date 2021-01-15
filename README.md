@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
 
+![LadiesSocial](https://user-images.githubusercontent.com/37270379/104778824-badcaf00-57c9-11eb-99fd-865a238680a8.png)
 
-![Alt text](LadiesSocial.png ?raw=true "Title")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

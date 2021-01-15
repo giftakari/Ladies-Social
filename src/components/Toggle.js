@@ -29,6 +29,7 @@ export default class Toggle extends PureComponent {
 
     return (
       <div>
+        <h1>Ladies Social</h1>
         <SearchBox placeholder="Filter list" handleChange={this.searchInput} />
         <CardList cardNumber={filteredData}></CardList>
       </div>

@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Ladies-Social/static/css/main.f4c391bc.chunk.css",
-    "main.js": "/Ladies-Social/static/js/main.22312bfd.chunk.js",
-    "main.js.map": "/Ladies-Social/static/js/main.22312bfd.chunk.js.map",
+    "main.css": "/Ladies-Social/static/css/main.ad470622.chunk.css",
+    "main.js": "/Ladies-Social/static/js/main.d016c287.chunk.js",
+    "main.js.map": "/Ladies-Social/static/js/main.d016c287.chunk.js.map",
     "runtime-main.js": "/Ladies-Social/static/js/runtime-main.553bdb38.js",
     "runtime-main.js.map": "/Ladies-Social/static/js/runtime-main.553bdb38.js.map",
     "static/js/2.65e82ba9.chunk.js": "/Ladies-Social/static/js/2.65e82ba9.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.30833f2d.chunk.js": "/Ladies-Social/static/js/3.30833f2d.chunk.js",
     "static/js/3.30833f2d.chunk.js.map": "/Ladies-Social/static/js/3.30833f2d.chunk.js.map",
     "index.html": "/Ladies-Social/index.html",
-    "static/css/main.f4c391bc.chunk.css.map": "/Ladies-Social/static/css/main.f4c391bc.chunk.css.map",
+    "static/css/main.ad470622.chunk.css.map": "/Ladies-Social/static/css/main.ad470622.chunk.css.map",
     "static/js/2.65e82ba9.chunk.js.LICENSE.txt": "/Ladies-Social/static/js/2.65e82ba9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.553bdb38.js",
     "static/js/2.65e82ba9.chunk.js",
-    "static/css/main.f4c391bc.chunk.css",
-    "static/js/main.22312bfd.chunk.js"
+    "static/css/main.ad470622.chunk.css",
+    "static/js/main.d016c287.chunk.js"
   ]
 }
